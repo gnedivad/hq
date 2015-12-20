@@ -1,0 +1,16 @@
+@import "utils";
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  color: $text-color;
+  background-color: $background-color;
+}
+
+.tweet-block {
+  .avatar {
+    height: 32px;
+    width: 32px;
+  }
+}
